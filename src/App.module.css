@@ -1,7 +1,11 @@
 
 .App {
   text-align: center;
+ }
+.App .DIV {
+  width: 100%;
 }
+
 
 .Button {
   border: 1px solid #521751;
